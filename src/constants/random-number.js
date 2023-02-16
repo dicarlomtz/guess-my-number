@@ -1,0 +1,1 @@
+export const DEFAULT_RANDOM_NUMBER_MAX_LIMIT = 20;
