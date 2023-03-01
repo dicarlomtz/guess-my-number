@@ -1,6 +1,6 @@
 # Guess My Number
 
-Guess my number is a game when you have to guess the secret number in a range. This is a little project to put some DOM manipulation concepts into practice.
+Guess my number is a game where you have to guess the secret number in a range. This is a little project to put some DOM manipulation concepts into practice.
 
 ## Requirements
 
